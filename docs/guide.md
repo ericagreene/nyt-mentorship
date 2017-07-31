@@ -1,4 +1,4 @@
-# Mentoring Guide
+# The New York Times Digital Mentorship Program 
 
 ## Overview
 
@@ -7,14 +7,14 @@ The mentorship program was developed to better retain and advance women and mino
 
 ### What is mentoring?
 
-The ABI Mentoring Guide defines mentoring as “a one-to-one developmental relationship between a mentor with experience and knowledge in technology/computer science and a less experienced partner.”
+The [ABI Mentoring Guide](http://anitaborg.org/wp-content/uploads/2014/01/MENTORING-GUIDE.pdf) defines mentoring as "a one-to-one developmental relationship between a mentor with experience and knowledge in technology/computer science and a less experienced partner."
 
 Within The New York Times digital group we expand this definition to encompass mentors with experience and knowledge in product management, project management, digital design, and technology.
 
 A mentoring relationship should not be prescriptive. Instead, the mentor should aid in the process of career development by helping their mentee discover their strengths and weaknesses in order to help focus, reframe and clarify their career vision.
 
 ### Why mentoring?
-Mentoring has been shown to be effective in increasing the retention and advancement of women and minorities. An evaluation of diversity management programs at 830 companies over 30 years found that mentorship programs are often “quite effective” and have the strongest positive impact on the advancement of women and minorities along with executive diversity task forces.
+Mentoring has been shown to be effective in increasing the retention and advancement of women and minorities. An evaluation of diversity management programs at 830 companies over 30 years found that mentorship programs are often “quite effective” and have the strongest positive impact on the advancement of women and minorities along with executive diversity task forces. ([Dobbin, F.; Kalex, A., and Kelly, E. (2007). Diversity Management in Corporate America, Contexts, Fall, 21-27.](https://scholar.harvard.edu/dobbin/files/2007_contexts_dobbin_kalev_kelly.pdf))
 
 #### Benefits for mentors
 * You will get to meet talented, driven people from across the organization.
@@ -30,6 +30,8 @@ Mentoring has been shown to be effective in increasing the retention and advance
 
 ## Principles
 
+Building a relationship with a colleague from scratch can be difficult. Successful mentorship relationships are built on a joint commitment of shared growth and trust.
+
 ### Mindset
 
 * **Growth Mindset** - A growth-mindset is required for change; if it feels overwhelming or scary, you are on the right track - keep going.
@@ -43,8 +45,8 @@ Mentoring has been shown to be effective in increasing the retention and advance
 Consistency is key - Scheduled, consistent meetings are an important part of building the mentorship relationship.
 
 ### Mentee-specific
-* **Goal setting** - Goal setting is an iterative process; mentees should “raise the bar” for themselves as they progress and their skills increase. Take time to reflect on progress and celebrate small wins.
-* **Career Development** - It is hard to set aside time to focus on your career, but it’s important! You have permission to focus on your career.
+* **Goal setting is worth the time** - Goal setting is an iterative process; mentees should “raise the bar” for themselves as they progress and their skills increase. Take time to reflect on progress and celebrate small wins.
+* **Give yourself permission to focus on your career** - It is hard to set aside time to focus on your career, but it’s important! You have permission to focus on your career.
 
 ### Mentor-specific
 * **Mentors guide** - Mentors make themselves available to their mentees and they actively listen. Guidance includes sharing experiences, past or present, and how mentors dealt with a particular challenge or situation.
@@ -66,11 +68,11 @@ Once pairs are formed, the leadership team and HR will review before pairs are f
 
 ### Kickoff
 
-A kickoff email will be sent outlining the program and schedule. After the kickoff email is sent two workshops will be scheduled. One session will be dedicated to mentees for goal setting. Another session will be dedicated to mentors to set expectations for mentors. We will support remote participants.
+A kickoff email will be sent outlining the program and schedule. After the kickoff email is sent two workshops will be scheduled. One session will be dedicated to mentees for goal setting. Another session will be a workshop on coaching techniques for our mentors. We will support remote participants.
 
 ### Regular Mentor/Mentee Meetings (6 months)
 
-Mentors and mentees will meet for at least an hour every four weeks for the following 6 months (there will be a total of 6 meetings over the course of the program, excluding the kick-off). In their first meeting, pairs should decide on a method for scheduling future meetings. They should also decide on what should be held confidential and what can be shared outside the relationship.
+Mentors and mentees will meet for **at least an hour every month** for the following 6 months (there will be a total of 6 meetings over the course of the program, excluding the kick-off). In their first meeting, pairs should decide on a method for scheduling future meetings. They should also decide on what should be held confidential and what can be shared outside the relationship.
 
 Ongoing Support for mentors and mentees
 * 3 check-ins along the way, for mentors and mentees
